@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:2:1-198:12
+	package
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:5:5-31
+	android:versionCode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:6:5-35
+uses-sdk
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.1.0] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [soberdiary31:facebook:unspecified] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:14:9-53
+uses-permission#android.permission.INTERNET
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:26:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:27:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:29:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:30:5-82
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:30:22-79
+permission#ubicomp.soberdiary3.main.permission.C2D_MESSAGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:32:5-34:47
+	android:protectionLevel
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:33:9-71
+uses-permission#ubicomp.soberdiary3.main.permission.C2D_MESSAGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:36:5-87
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:36:22-84
+supports-screens
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:38:5-43:40
+	android:largeScreens
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:39:9-36
+	android:smallScreens
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:42:9-36
+	android:normalScreens
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:41:9-37
+	android:xlargeScreens
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:43:9-37
+	android:largestWidthLimitDp
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:40:9-42
+application
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:45:5-196:19
+MERGED from [com.android.support:support-v4:23.1.0] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [soberdiary31:facebook:unspecified] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:49:9-41
+	android:allowBackup
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:48:9-42
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:46:9-51
+activity#ubicomp.soberdiary.main.MainActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:51:9-62:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:53:13-45
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:54:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:56:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:52:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:60:27-74
+receiver#ubicomp.soberdiary.main.BootBoardcastReceiver
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:64:9-71:20
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:64:19-79
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:65:13-70:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:66:17-79
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:66:25-76
+action#android.intent.action.TIME_SET
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:67:17-73
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:67:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:68:17-81
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:68:25-78
+action#android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:69:17-96
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:69:25-93
+receiver#ubicomp.soberdiary.main.NetworkChangeReceiver
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:72:9-79:20
+	android:singleUser
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:74:13-38
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:73:13-73
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.STATE_CHANGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:75:13-78:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:76:17-79
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:76:25-76
+action#android.net.wifi.STATE_CHANGE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:77:17-72
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:77:25-69
+receiver#ubicomp.soberdiary.main.AlarmReceiver
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:80:9-86:20
+	android:exported
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:81:13-65
+intent-filter#com.android.alarmclock.ALARM_ALERT
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:83:13-85:29
+action#com.android.alarmclock.ALARM_ALERT
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:84:17-77
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:84:25-74
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:87:9-96:20
+	android:permission
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:89:13-73
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:88:13-71
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+ubicomp.soberdiary.main
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:90:13-95:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:91:17-81
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:91:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:92:17-86
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:92:25-83
+category#ubicomp.soberdiary.main
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:94:17-68
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:94:27-65
+service#ubicomp.soberdiary.main.AlarmService
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:98:9-72
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:98:18-69
+service#ubicomp.soberdiary.main.UploadService
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:99:9-73
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:99:18-70
+service#ubicomp.soberdiary.main.GPSService
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:100:9-70
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:100:18-67
+service#ubicomp.soberdiary.main.GCMIntentService
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:101:9-76
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:101:18-73
+activity#ubicomp.soberdiary.main.PreSettingActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:103:9-108:20
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:105:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:106:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:107:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:104:13-70
+activity#ubicomp.soberdiary.main.GCMAlertActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:113:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:111:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:112:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:114:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:110:13-68
+activity#ubicomp.soberdiary.main.EmotionActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:116:9-121:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:119:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:118:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:120:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:117:13-67
+activity#ubicomp.soberdiary.main.EmotionManageActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:122:9-127:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:125:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:124:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:126:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:123:13-73
+activity#ubicomp.soberdiary.main.EmotionManageHistoryActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:128:9-134:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:130:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:131:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:133:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:129:13-80
+activity#ubicomp.soberdiary.main.TutorialActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:135:9-141:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:139:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:137:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:138:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:140:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:136:13-68
+activity#ubicomp.soberdiary.main.AboutActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:142:9-147:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:145:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:144:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:146:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:143:13-65
+activity#ubicomp.soberdiary.main.DeveloperActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:148:9-153:20
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:150:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:151:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:152:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:149:13-69
+activity#ubicomp.soberdiary.main.StorytellingSharingActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:154:9-160:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:158:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:156:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:157:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:159:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:155:13-79
+activity#ubicomp.soberdiary.main.StorytellingTestActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:161:9-165:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:164:13-49
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:163:13-37
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:162:13-76
+activity#ubicomp.soberdiary.main.LockedActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:166:9-172:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:170:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:168:13-43
+	android:noHistory
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:169:13-37
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:171:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:167:13-66
+activity#ubicomp.soberdiary.main.FacebookActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:173:9-178:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:176:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:175:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:177:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:174:13-68
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:180:9-182:55
+	android:value
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:182:13-52
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:181:13-58
+activity#com.facebook.LoginActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:184:9-188:74
+	android:label
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:186:13-45
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:187:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:188:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:185:13-54
+activity#ubicomp.soberdiary.main.SettingActivity
+ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:189:9-194:20
+	android:screenOrientation
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:192:13-49
+	android:launchMode
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:191:13-43
+	android:theme
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:193:13-71
+	android:name
+		ADDED from /home/changhc/Documents/soberdiary31/app/src/main/AndroidManifest.xml:190:13-67

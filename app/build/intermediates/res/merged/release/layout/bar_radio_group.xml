@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/question_multi_radio_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+
+</LinearLayout>
+<!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/layout/bar_radio_group.xml -->

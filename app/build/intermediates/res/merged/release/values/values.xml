@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="about_message">
+        <item>此應用程式由</item>
+        <item>合作開發。</item>
+        <item>開發目為協助酗酒患者戒酒並自我控制使用。</item>
+        <item>此應用程式需搭配專用酒測器方可使用。</item>
+        <item>應用介面視覺設計：</item>
+        <item>插畫：</item>
+        <item>著色：</item>
+    </string-array>
+    <string-array name="agreement">
+        <item>非常不認同</item>
+        <item>不認同</item>
+        <item>普通</item>
+        <item>認同</item>
+        <item>非常認同</item>
+    </string-array>
+    <string-array name="analysis_rank_change_help">
+        <item>第一名</item>
+        <item>第二名</item>
+        <item>第三名</item>
+        <item/>
+        <item>進步了</item>
+        <item>後退了</item>
+    </string-array>
+    <string-array name="audio_box_help">
+        <item>錄下或聆聽在</item>
+        <item>的心情\n(最長可達一分鐘)</item>
+    </string-array>
+    <string-array name="craving_state">
+        <item>無\n　</item>
+        <item>ㄧ點\n</item>
+        <item>輕微\n可以控制</item>
+        <item>輕度\n但未行動</item>
+        <item>輕中度\n蠢蠢欲動</item>
+        <item>中度\n想去買</item>
+        <item>中強度\n等一下買</item>
+        <item>強烈\n考慮要喝</item>
+        <item>很強烈\n猶豫再喝</item>
+        <item>極強烈\n馬上就喝</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string-array name="emotionDIY_solution">
+        <item>閉眼專注聆聽舒緩音樂</item>
+        <item>閉眼專注觀察呼吸</item>
+        <item>專心健走 10 ~ 30 分鐘</item>
+        <item>從事休閒活動</item>
+        <item>尋求社區心理諮商</item>
+        <item>與親友聊天</item>
+    </string-array>
+    <string-array name="emotion_manage_emotion">
+        <item>快樂</item>
+        <item>興奮</item>
+        <item>感覺被愛</item>
+        <item>悲傷</item>
+        <item>傷感</item>
+        <item>惱怒</item>
+        <item>後悔挫折</item>
+        <item>煩悶</item>
+        <item>害怕</item>
+        <item>擔心</item>
+    </string-array>
+    <string-array name="emotion_manage_related">
+        <item>人物</item>
+        <item>事件</item>
+        <item>物品</item>
+        <item>現在情境</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="emotion_state">
+        <item>　沮喪　</item>
+        <item>　低落　</item>
+        <item>　普通　</item>
+        <item>　愉快　</item>
+        <item>　快樂　</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/facebook.xml -->
+    <eat-comment/>
+    <string-array name="fb_selection">
+        <item>朋友</item>
+        <item>自己</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="notification_comments">
+	    <item>點選\"開始\"進行酒測是邁向成功的第一步</item>
+	    <item>每日晚間出現的\"即時自我評量\"幫助您更了解自己</item>
+	    <item>使用\"心情DIY\"可以幫助您紓解壓力</item>
+	    <item>用聲音記錄下您的心情，讓自己更了解自己</item>
+	    <item>使用情緒管理記錄心情，供自己日後思索</item>
+	    <item>每天翻閱細讀圖畫，會有小發現喔</item>
+	    <item>想要將您的戒酒歷程給朋友嗎？</item>
+	    <item>完成酒測後點選諮詢建議能帶給您更多幫助</item>
+	    <item>測試看看自己記不記得每周名言</item>
+	</string-array>
+    <string-array name="notification_subtitles">
+	    <item>自我酒測</item>
+	    <item>即時自我評量</item>
+	    <item>心情DIY</item>
+	    <item>心情紀錄</item>
+	    <item>情緒管理</item>
+	    <item>故事分享</item>
+	    <item>臉書分享</item>
+	    <item>諮詢建議</item>
+	    <item>自我測試</item>
+	</string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/inspire_questionnaire.xml -->
+    <eat-comment/>
+    <string-array name="question_inspire_question">
+        <item>為了家人和不一樣的自己，繼續加油，堅持下去</item>
+        <item>我們將成為我們所想要成為的人</item>
+        <item>打破所有的阻抗和障礙，繼續加油，堅持下去</item>
+        <item>一天過一天，我感覺我的狀況越來越好</item>
+        <item>好事多磨，戒酒需要不斷的努力</item>
+        <item>戒酒成功與失敗只有一線之隔，持續提醒自己不要喝酒</item>
+        <item>我能走出之前酒癮的困擾，走向美好的未來</item>
+        <item>只有突破現狀，才有意想不到的收穫</item>
+        <item>千萬不要低頭，勇於面對每一個挑戰</item>
+        <item>不要屈服於憂愁，要堅定地抗拒它，否則憂愁就會得寸進尺</item>
+        <item>世界上沒有比快樂更能使人美麗的化妝品</item>
+        <item>不要輕視自己，所有人都是自己生命中的英雄</item>
+        <item>正視疾病，勇於忍受的人，將變得更堅強、壯大</item>
+        <item>不論你在什麼時候開始，重要的是開始之後就不要停止</item>
+        <item>抱最大的希望，做最大的努力</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>覺得自己做的到和不做的到，其實只在一念之間</item>
+        <item>人只要不失去方向，就不會失去自己</item>
+        <item>人生重要的不是所站的位置，而是所朝的方向</item>
+        <item>當你能飛的時候就不要放棄飛；當你能夢的時候就不要放棄夢</item>
+        <item>自己要先看得起自己，別人才會看得起你</item>
+        <item>一個今天勝過兩個明天</item>
+        <item>肯承認錯誤則錯已改了一半</item>
+        <item>理想的路總是為有信心的人預備著</item>
+        <item>把你的臉迎向陽光，那就不會有陰影</item>
+        <item>不如意的時候不要儘往悲傷裡鑽</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+        <item>漫無目的的生活就像出海航行而沒有指南針，要做自己生命的舵手</item>
+        <item>人生操之在我</item>
+        <item>為自己而戰、為自己而奮鬥</item>
+        <item>用最多的夢想面對未來，用最少的浪費面對現在</item>
+        <item>放開懷抱面對轉變，但不要放走你的價值</item>
+        <item>進取的人會視每個危機為一個機會</item>
+        <item>人生最大的快樂不在於擁有什麼，而在於追求的過程</item>
+        <item>真正的快樂是內在的，只有在人類的心靈才能發現</item>
+        <item>生命在閃耀中現出絢爛，在平凡中現出真實</item>
+        <item>生命，那是自然會給人類去雕琢的寶石</item>
+        <item>你不應該拿自己和別人的最佳表現相比，應該和自己的最佳表現相比</item>
+        <item>愚者用肉體監視心靈，智者用心靈監視肉體</item>
+        <item>只要有信心，人永遠不會挫敗</item>
+        <item>人若軟弱就是自己最大的敵人，人若勇敢就是最好的朋友</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/reading_questionnaire.xml -->
+    <eat-comment/>
+    <string-array name="question_reading_question">
+        <item>為了家人和不一樣的自己，繼續加油，堅持下去</item>
+        <item>我們將成為我們所想要成為的人</item>
+        <item>打破所有的阻抗和障礙，繼續加油，堅持下去</item>
+        <item>一天過一天，我感覺我的狀況越來越好</item>
+        <item>好事多磨，戒酒需要不斷的努力</item>
+        <item>戒酒成功與失敗只有一線之隔，持續提醒自己不要喝酒</item>
+        <item>不要只從少喝幾杯酒來衡量每天的成效，要看戒酒長期的好處</item>
+        <item>做一件事需要具備能力，但要真正戒酒要正面的動機及態度</item>
+        <item>酒不沾唇，疾病不傷神</item>
+        <item>我能走出之前酒癮的困擾，走向美好的未來</item>
+        <item>我們最愛的是我們自己</item>
+        <item>生命是張空白紙，重點是譜出自己的人生樂章</item>
+        <item>成功的戒酒是態度的改變</item>
+        <item>只有突破現狀，才有意想不到的收穫</item>
+        <item>千萬不要低頭，勇於面對每一個挑戰</item>
+        <item>宇宙中祇有一芥之地你肯定可以改善，那就是你自己</item>
+        <item>不要屈服於憂愁，要堅定地抗拒它，否則憂愁就會得寸進尺</item>
+        <item>世界上沒有比快樂更能使人美麗的化妝品</item>
+        <item>誰能以深刻的內容充實每個瞬間，誰就是在無限地延長自己的生命</item>
+        <item>憂慮不會消除明天的憂傷，但會使你失去今天的力量</item>
+        <item>不要輕視自己，所有人都是自己生命中的英雄</item>
+        <item>正視疾病，勇於忍受的人，將變得更堅強、壯大</item>
+        <item>不論你在什麼時候開始，重要的是開始之後就不要停止</item>
+        <item>抱最大的希望，做最大的努力</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>覺得自己做的到和不做的到，其實只在一念之間</item>
+        <item>人只要不失去方向，就不會失去自己</item>
+        <item>人生重要的不是所站的位置，而是所朝的方向</item>
+        <item>當你能飛的時候就不要放棄飛；當你能夢的時候就不要放棄夢</item>
+        <item>自己要先看得起自己，別人才會看得起你</item>
+        <item>一個今天勝過兩個明天</item>
+        <item>肯承認錯誤則錯已改了一半</item>
+        <item>理想的路總是為有信心的人預備著</item>
+        <item>所有欺騙中，自欺是最為嚴重的</item>
+        <item>把你的臉迎向陽光，那就不會有陰影</item>
+        <item>不如意的時候不要儘往悲傷裡鑽</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+        <item>漫無目的的生活就像出海航行而沒有指南針，要做自己生命的舵手</item>
+        <item>人生操之在我</item>
+        <item>以誠實的態度去面對人生</item>
+        <item>為自己而戰、為自己而奮鬥</item>
+        <item>以身作則，身體力行</item>
+        <item>用最多的夢想面對未來，用最少的浪費面對現在</item>
+        <item>放開懷抱面對轉變，但不要放走你的價值</item>
+        <item>一句合宜的話，就如金蘋果跌在銀網子裡，何其美好</item>
+        <item>今天工作不努力，明天努力找工作</item>
+        <item>贈人以言，重如珠玉；傷人以言，甚於劍戟</item>
+        <item>不怕口袋空空，只怕腦袋空空</item>
+        <item>口才宜於用來應敵，卻不宜用來待友</item>
+        <item>知識的死敵不是無知，而是昧於無知</item>
+        <item>萬物靜觀皆自得，四時佳興與人同</item>
+        <item>生活是一種人人須學而無人能教的藝術</item>
+        <item>人的正確功能是生活 ，而不是生存！</item>
+        <item>書本就如降落傘，要打開才有用</item>
+        <item>可以與自己性格不同的人融洽地相處是成熟的表現</item>
+        <item>進取的人會視每個危機為一個機會</item>
+        <item>誠意=笑容+語調+言詞</item>
+        <item>人生最大的快樂不在於擁有什麼，而在於追求的過程</item>
+        <item>真正的快樂是內在的，只有在人類的心靈才能發現</item>
+        <item>生命在閃耀中現出絢爛，在平凡中現出真實</item>
+        <item>生命，那是自然會給人類去雕琢的寶石</item>
+        <item>人生的價值，應當看他貢獻什麼</item>
+        <item>最困難的職業就是怎樣為人</item>
+        <item>嘲弄往往是助燃的氧氣，促發了怒火的蔓延</item>
+        <item>你不應該拿自己和別人的最佳表現相比，應該和自己的最佳表現相比</item>
+        <item>生氣是拿別人做錯的事來懲罰自己</item>
+        <item>愚者用肉體監視心靈，智者用心靈監視肉體</item>
+        <item>只要有信心，人永遠不會挫敗</item>
+        <item>人若軟弱就是自己最大的敵人，人若勇敢就是最好的朋友</item>
+        <item>美好的生命應該充滿期待、驚喜和感激</item>
+        <item>快樂要懂得分享，才能加倍的快樂</item>
+        <item>快樂不是因為擁有的多而是計較的少</item>
+        <item>因害怕失敗而不敢放手一搏，永遠不會成功</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string-array name="question_solutions">
+        <item>立即離開有酒的地方</item>
+        <item>我已經決定停止喝酒了</item>
+        <item>請健走10~30分鐘</item>
+        <item>請專注於呼吸15次</item>
+        <item>請休息或就診</item>
+        <item>結束</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/quotes.xml -->
+    <eat-comment/>
+    <string-array name="quote_answer_0">
+        <item>敵人</item>
+        <item>親人</item>
+        <item>愛人</item>
+        <item>朋友</item>
+        <item>老師</item>
+        <item>可畏</item>
+        <item>可敬</item>
+        <item>可愛</item>
+        <item>可憐</item>
+        <item>友善</item>
+        <item>認輸</item>
+        <item>聽話</item>
+        <item>否認</item>
+        <item>反抗</item>
+        <item>猜疑</item>
+    </string-array>
+    <string-array name="quote_answer_1">
+        <item>戒酒</item>
+        <item>運動</item>
+        <item>回家</item>
+        <item>賭博</item>
+        <item>喝酒</item>
+        <item>愈來愈好</item>
+        <item>愈來愈差</item>
+        <item>不太舒服</item>
+        <item>內心感受</item>
+        <item>忐忑不安</item>
+        <item>這路</item>
+        <item>馬路</item>
+        <item>飛機</item>
+        <item>捷運</item>
+        <item>氣頭</item>
+    </string-array>
+    <string-array name="quote_answer_10">
+        <item>堅定</item>
+        <item>疑惑</item>
+        <item>衰弱</item>
+        <item>可怕</item>
+        <item>肥胖</item>
+        <item>強壯</item>
+        <item>聰明</item>
+        <item>可怕</item>
+        <item>煩人</item>
+        <item>小氣</item>
+        <item>身體訓練</item>
+        <item>智力測驗</item>
+        <item>晴天霹靂</item>
+        <item>打擊練習</item>
+        <item>消防演習</item>
+    </string-array>
+    <string-array name="quote_answer_11">
+        <item>生活</item>
+        <item>學習</item>
+        <item>文字</item>
+        <item>運動</item>
+        <item>天氣</item>
+        <item>鼓勵</item>
+        <item>貶抑</item>
+        <item>阿諛</item>
+        <item>諷刺</item>
+        <item>嘲笑</item>
+        <item>堅持下去</item>
+        <item>心情煩躁</item>
+        <item>天氣晴朗</item>
+        <item>緊張害怕</item>
+        <item>羞於見人</item>
+    </string-array>
+    <string-array name="quote_answer_2">
+        <item>船</item>
+        <item>車</item>
+        <item>馬</item>
+        <item>雲</item>
+        <item>狗</item>
+        <item>不能</item>
+        <item>可以</item>
+        <item>想要</item>
+        <item>迫切</item>
+        <item>你想</item>
+        <item>游向</item>
+        <item>背離</item>
+        <item>厭惡</item>
+        <item>飛向</item>
+        <item>面向</item>
+    </string-array>
+    <string-array name="quote_answer_3">
+        <item>清楚</item>
+        <item>反對</item>
+        <item>疑惑</item>
+        <item>厭煩</item>
+        <item>憤怒</item>
+        <item>失敗</item>
+        <item>成功</item>
+        <item>空想</item>
+        <item>幻想</item>
+        <item>過去</item>
+        <item>珍惜</item>
+        <item>厭煩</item>
+        <item>悔恨</item>
+        <item>看輕</item>
+        <item>不想</item>
+    </string-array>
+    <string-array name="quote_answer_4">
+        <item>自愛</item>
+        <item>自我</item>
+        <item>自己</item>
+        <item>自私</item>
+        <item>自卑</item>
+        <item>善待</item>
+        <item>虧待</item>
+        <item>挑戰</item>
+        <item>等待</item>
+        <item>破壞</item>
+        <item>戀愛</item>
+        <item>遊戲</item>
+        <item>夢境</item>
+        <item>棋局</item>
+        <item>鬧劇</item>
+    </string-array>
+    <string-array name="quote_answer_5">
+        <item>憤怒</item>
+        <item>滿意</item>
+        <item>高興</item>
+        <item>大喜</item>
+        <item>歡喜</item>
+        <item>恐懼</item>
+        <item>憧憬</item>
+        <item>期待</item>
+        <item>期望</item>
+        <item>規劃</item>
+        <item>無力</item>
+        <item>快樂</item>
+        <item>開心</item>
+        <item>期待</item>
+        <item>奇幻</item>
+    </string-array>
+    <string-array name="quote_answer_6">
+        <item>價值</item>
+        <item>我們</item>
+        <item>父母</item>
+        <item>家庭</item>
+        <item>手腳</item>
+        <item>怎樣的人</item>
+        <item>有了什麼</item>
+        <item>自暴自棄</item>
+        <item>自私自利</item>
+        <item>有錢有勢</item>
+        <item>有了什麼</item>
+        <item>怎樣的人</item>
+        <item>自私自利</item>
+        <item>自暴自棄</item>
+        <item>有錢有勢</item>
+    </string-array>
+    <string-array name="quote_answer_7">
+        <item>面對</item>
+        <item>逃避</item>
+        <item>躲開</item>
+        <item>抗拒</item>
+        <item>放棄</item>
+        <item>不足</item>
+        <item>天真</item>
+        <item>好奇</item>
+        <item>疑惑</item>
+        <item>不想</item>
+        <item>珍惜</item>
+        <item>放棄</item>
+        <item>後悔</item>
+        <item>厭惡</item>
+        <item>逃避</item>
+    </string-array>
+    <string-array name="quote_answer_8">
+        <item>運氣</item>
+        <item>食慾</item>
+        <item>財富</item>
+        <item>天氣</item>
+        <item>成績</item>
+        <item>順利</item>
+        <item>煩躁</item>
+        <item>緊湊</item>
+        <item>悠閒</item>
+        <item>混亂</item>
+        <item>認真努力</item>
+        <item>好逸惡勞</item>
+        <item>積少成多</item>
+        <item>風調雨順</item>
+        <item>守株待兔</item>
+    </string-array>
+    <string-array name="quote_answer_9">
+        <item>創造</item>
+        <item>抗拒</item>
+        <item>懷疑</item>
+        <item>幻想</item>
+        <item>厭煩</item>
+        <item>相信</item>
+        <item>懷疑</item>
+        <item>反對</item>
+        <item>悔恨</item>
+        <item>放縱</item>
+        <item>一步一步</item>
+        <item>極度不願</item>
+        <item>七零八落</item>
+        <item>七上八下</item>
+        <item>一五一十</item>
+    </string-array>
+    <string-array name="quote_learning">
+        <item>面對問題及相信自我！</item>
+        <item>確定決心及抱持希望！</item>
+        <item>下定決心並主動出擊！</item>
+        <item>自我接納及了解！</item>
+        <item>自愛並善待自身！</item>
+        <item>保持平靜並活在當下！</item>
+        <item>對自己負責且致力改變！</item>
+        <item>勇於面對、接納自我並改變！</item>
+        <item>感受自身的進步！</item>
+        <item>持續努力並了解自身！</item>
+        <item>努力不懈並堅定決心！</item>
+        <item>感謝他人並回饋大眾！</item>
+    </string-array>
+    <string-array name="quote_learning_extend">
+        <item>隨著不斷地喝酒，酒精所造成的影響也就越嚴重。</item>
+        <item>酒精所造成的影響：自制力降低、口齒不清、行動遲緩等</item>
+		<item>酒精所造成的影響：思緒混亂、記憶衰退、注意力渙散等</item>
+		<item>酒精所造成的影響：陷入昏迷、呼吸困難、死亡等</item>
+		<item>酒精依賴會渴求飲酒、無法控制飲酒量、對酒精的依賴性及耐受性增加</item>
+		<item>喝酒的風險：車禍等事故、危險、暴力行為、自殺或殺害他人</item>
+		<item>長時間飲酒過量的影響：酒精依賴、健康問題、癌症的風險</item>
+		<item>有酒癮者長時間在喝酒，因此無力正常生活也無法屢行責任義務</item>
+		<item>有酒癮者可能因喝酒而無法完成生活中責任義務。</item>
+		<item>濫用酒精可能使自己陷於危險，或有法律上或社交上的問題</item>
+		<item>肝硬化為第12高的致死原因</item>
+		<item>在肝硬化死亡案例中，48.2%與酒精相關</item>
+		<item>酒精相關的肝臟疾病為肝臟移植的主因，佔近3分之1的病例</item>
+		<item>15至49歲的族群中, 酒精使用為全球造成夭折及殘疾最主要的因素</item>
+		<item>2012中的研究顯示，>10%的孩童跟有酒精問題的父母生活在一起</item>
+    </string-array>
+    <string-array name="quote_message">
+        <item>酒精是一位可畏的敵人，但您相信不會被\n敵人擺布，也決不低頭認輸。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在這\n路上。珍惜每一天，會感覺愈來愈好。</item>
+        <item>您發現不能空等您的船來到，而是您得自\n己游向它。</item>
+        <item>您清楚您可以從過去的失敗中，要如何讓\n自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您開始懂得好好善待自己，並且”自愛”\n是一生最重要的一場戀愛。</item>
+        <item>對過去憤怒，或對未來恐懼，只是讓您的\n生活變得更無力，更容易錯過現在。</item>
+        <item>我們的價值是由我們是怎樣的人來決定，\n而不是有了什麼來決定。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自\n己的不足，但也珍惜自己的任何改變。</item>
+        <item>您發現當您越認真努力戒酒，生活變得更\n順利，運氣也會跟著變好。</item>
+        <item>您相信自己一步一步在走您自己所創造的\n不一樣中。</item>
+        <item>就像一次一次的身體訓練，每一次都讓我\n們變得更強壯或更堅定。</item>
+        <item>您發現別人的鼓勵讓我們更堅持下去，但\n若可以鼓勵他人，更能讓生活更有意義。</item>
+    </string-array>
+    <string-array name="quote_question_0">
+        <item>酒精是一位可畏的○○，但您相信不會被敵人擺布，也決不低頭認輸。</item>
+        <item>酒精是一位○○的敵人，但您相信不會被敵人擺布，也決不低頭認輸。</item>
+        <item>酒精是一位可畏的敵人，但您相信不會被敵人擺布，也決不低頭○○。</item>
+    </string-array>
+    <string-array name="quote_question_1">
+        <item>想踏上○○這條路已經很久了，您正在這路上。珍惜每一天，會感覺愈來愈好。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在這路上。珍惜每一天，會感覺○○○○。</item>
+        <item>想踏上戒酒這條路已經很久了，您正在○○上。珍惜每一天，會感覺愈來愈好。</item>
+    </string-array>
+    <string-array name="quote_question_10">
+        <item>就像一次一次的身體訓練，每一次都讓我們變得更強壯或更○○。</item>
+        <item>就像一次一次的身體訓練，每一次都讓我們變得更○○或更堅定。</item>
+        <item>就像一次一次的○○○○，每一次都讓我們變得更強壯或更堅定。</item>
+    </string-array>
+    <string-array name="quote_question_11">
+        <item>您發現別人的鼓勵讓我們更堅持下去，但若可以鼓勵他人，更能讓○○更有意義。</item>
+        <item>您發現別人的○○讓我們更堅持下去，但若可以鼓勵他人，更能讓生活更有意義。</item>
+        <item>您發現別人的鼓勵讓我們更○○○○，但若可以鼓勵他人，更能讓生活更有意義。</item>
+    </string-array>
+    <string-array name="quote_question_2">
+        <item>您發現不能空等您的○來到，而是您得自己游向它。</item>
+        <item>您發現○○空等您的船來到，而是您得自己游向它。</item>
+        <item>您發現不能空等您的船來到，而是您得自己○○它。</item>
+    </string-array>
+    <string-array name="quote_question_3">
+        <item>您○○您可以從過去的失敗中，要如何讓自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您清楚您可以從過去的○○中，要如何讓自己現在更好，更珍惜戒酒的日子。</item>
+        <item>您清楚您可以從過去的失敗中，要如何讓自己現在更好，更○○戒酒的日子。</item>
+    </string-array>
+    <string-array name="quote_question_4">
+        <item>您開始懂得好好善待自己，並且”○○”是一生最重要的一場戀愛。</item>
+        <item>您開始懂得好好○○自己，並且”自愛”是一生最重要的一場戀愛。</item>
+        <item>您開始懂得好好善待自己，並且”自愛”是一生最重要的一場○○。</item>
+    </string-array>
+    <string-array name="quote_question_5">
+        <item>對過去○○，或對未來恐懼，只是讓您的生活變得更無力，更容易錯過現在。</item>
+        <item>對過去憤怒，或對未來○○，只是讓您的生活變得更無力，更容易錯過現在。</item>
+        <item>對過去憤怒，或對未來恐懼，只是讓您的生活變得更○○，更容易錯過現在。</item>
+    </string-array>
+    <string-array name="quote_question_6">
+        <item>我們的○○是由我們是怎樣的人來決定，而不是有了什麼來決定。</item>
+        <item>我們的價值是由我們是○○○○來決定，而不是有了什麼來決定。</item>
+        <item>我們的價值是由我們是怎樣的人來決定，而不是○○○○來決定。</item>
+    </string-array>
+    <string-array name="quote_question_7">
+        <item>你正勇於○○戒酒在生活的挑戰，接受自己的不足，但也珍惜自己的任何改變。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自己的○○，但也珍惜自己的任何改變。</item>
+        <item>你正勇於面對戒酒在生活的挑戰，接受自己的不足，但也○○自己的任何改變。</item>
+    </string-array>
+    <string-array name="quote_question_8">
+        <item>您發現當您越認真努力戒酒，生活變得更順利，○○也會跟著變好。</item>
+        <item>您發現當您越認真努力戒酒，生活變得更○○，運氣也會跟著變好。</item>
+        <item>您發現當您越○○○○戒酒，生活變得更順利，運氣也會跟著變好。</item>
+    </string-array>
+    <string-array name="quote_question_9">
+        <item>您相信自己一步一步在走您自己所○○的不一樣中。</item>
+        <item>您○○自己一步一步在走您自己所創造的不一樣中。</item>
+        <item>您相信自己○○○○在走您自己所創造的不一樣中。</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="radar_0">
+        <item>每天進行酒測是成功的第一步</item>
+        <item>在各時段進行酒測、遠離酒精、邁向成功</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_1_0">
+        <item>完成酒測後，可點擊\'！\'按鈕尋求諮詢</item>
+        <item>每次酒測後，使用諮詢進一步幫助自己</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_1_1">
+        <item>諮詢建議中，使用心情DIY幫助自己</item>
+        <item>心情不佳時，可隨時使用心情DIY舒緩心情</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_0">
+        <item>每天可在自我管理記錄中錄下留言</item>
+        <item>錄下留言讓自己更了解自己</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_1">
+        <item>每天可使用情緒管理記錄心情</item>
+        <item>可隨時留下心情供自己日後思索</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_2_2">
+        <item>每天晚上會跳出\'即時自我評量\'喔</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_0">
+        <item>每天翻閱細讀圖畫，會有小發現喔</item>
+        <item>多多翻閱細讀圖畫，令自我成長</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_1">
+        <item>點選圖畫上方黃色書籤，測試一下吧</item>
+        <item>若不知道測試答案，回到圖畫再讀一次</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="radar_3_2">
+        <item>每周可向朋友分享自己的歷程</item>
+        <item>表現優秀，請繼續加油！</item>
+    </string-array>
+    <string-array name="setting_time_gap">
+        <item>提醒時間間隔設為30分鐘</item>
+        <item>提醒時間間隔設為60分鐘</item>
+        <item>提醒時間間隔設為120分鐘</item>
+        <item>關閉提醒功能</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/test_guide_messages.xml -->
+    <eat-comment/>
+    <string-array name="test_guide_msg">
+        <item>飲酒過量，有礙健康</item>
+        <item>飲酒過量，害人害己</item>
+        <item>半杯茶，贏過一壺酒</item>
+        <item>應酬不喝酒，健康才長久</item>
+        <item>健康人生，減速前進\n酒色財氣，禁止通行</item>
+        <item>酒不入口，健康不用愁</item>
+        <item>遠離酒，健康久久</item>
+        <item>要安全別喝酒！</item>
+        <item>有志不在年高\n無志空長百歲</item>
+        <item>積極就是比別人多走一步</item>
+        <item>凡事不可\n真的變成不可能</item>
+        <item>放開懷抱面對轉變\n但不要放走你的價值</item>
+        <item>要社會不淘汰你\n你首先要不放棄自己</item>
+        <item>成功非僥幸\n失敗有原因</item>
+        <item>人逢順境不逞強\n身處逆境不示弱</item>
+        <item>精神的滿足比肚子\n的滿足來得長久</item>
+        <item>人生就像踏單車\n不斷向前才能取得平衡</item>
+        <item>成功人講勤力\n失敗者才講運氣</item>
+        <item>你自己就是你自己\n給自己一個認同就可以</item>
+        <item>生命在閃耀中現出絢爛\n在平凡中現出真實</item>
+        <item>憂慮不會消除明天的憂傷\n但會使你失去今天的力量</item>
+        <item>有好的觀念才能\n發揮生命的功能</item>
+        <item>正視疾病、勇於忍受的人\n將變得更堅強、壯大</item>
+        <item>每天告訴自己一次\n『我真的很不錯』</item>
+        <item>人若軟弱就是\n自己最大的敵人</item>
+        <item>人若勇敢就是\n自己最好的朋友</item>
+        <item>有理想在的地方\n地獄就是天堂</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="tutorial_step">
+        <item>按下開關，使指示燈亮起</item>
+        <item>進入測試頁面按下開始按鈕</item>
+        <item>對準吹氣口持續吹氣五秒鐘</item>
+    </string-array>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="black">#FF000000</color>
+    <color name="black_gray">#FF585858</color>
+    <color name="chart_axis">#FF5f5f5f</color>
+    <color name="chart_text">#FFaaaaaa</color>
+    <color name="chart_x_axis">#FFc9c9ca</color>
+    <color name="chart_y_axis">#FF434343</color>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likebutton_text_color">#FFFFFF</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_loginview_text_color">#FFFFFF</color>
+    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="count_down">#FF2e2e2e</color>
+    <color name="dark_gray">#FF898989</color>
+    <color name="gray">#FF777777</color>
+    <color name="green">#FF2dc7b3</color>
+    <color name="lite_gray">#FF7c7d7c</color>
+    <color name="lite_orange">#FFF19700</color>
+    <color name="near_white">#99dedede</color>
+    <color name="orange">#FFc98123</color>
+    <color name="page_gray">#FF848484</color>
+    <color name="setting_edit_bg_color">#FF494949</color>
+    <color name="setting_title_bg_color">#FF434343</color>
+    <color name="shadow">#99000000</color>
+    <color name="storytelling_bg">#FF3f3d3d</color>
+    <color name="test_bg">#FF100e0e</color>
+    <color name="test_message">#FF989898</color>
+    <color name="test_start_button">#FF454545</color>
+    <color name="text_gray">#FF727171</color>
+    <color name="toast_point">#FF2dc7b3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="com_facebook_friend_picker_fragment"><attr format="boolean" name="multi_select"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="foreground_color"/><attr format="string" name="object_id"/><attr name="style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="boolean" name="fetch_user_info"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
+    <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
+    <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bar_height">61dp</dimen>
+    <dimen name="chart_bar_margin">26dp</dimen>
+    <dimen name="chart_bar_scroll_size">14.2dp</dimen>
+    <dimen name="chart_bar_size">10.6dp</dimen>
+    <dimen name="chart_button_start_left">30dp</dimen>
+    <dimen name="chart_button_start_top">55dp</dimen>
+    <dimen name="chart_height">167dp</dimen>
+    <dimen name="chart_label_base">13dp</dimen>
+    <dimen name="chart_label_gap">3dp</dimen>
+    <dimen name="chart_label_top">6dp</dimen>
+    <dimen name="chart_label_top2">16dp</dimen>
+    <dimen name="chart_line_paint">2.3dp</dimen>
+    <dimen name="chart_title_0">9dp</dimen>
+    <dimen name="chart_title_1">92dp</dimen>
+    <dimen name="chart_title_2">175dp</dimen>
+    <dimen name="chart_title_3">258dp</dimen>
+    <dimen name="chart_title_top">21dp</dimen>
+    <dimen name="chart_top_panel_height">54dp</dimen>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likebutton_compound_drawable_padding">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_bottom">0dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_left">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_right">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_top">0dp</dimen>
+    <dimen name="com_facebook_likebutton_text_size">13.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_left">12dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">16dp</dimen>
+    <dimen name="com_facebook_loginview_padding_top">12dp</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="day_block_margin_size">4dp</dimen>
+    <dimen name="day_circle_size">42dp</dimen>
+    <dimen name="fb_gap">20dp</dimen>
+    <dimen name="large_text_size">16sp</dimen>
+    <dimen name="large_title_size">28sp</dimen>
+    <dimen name="month_line_gap">4.6dp</dimen>
+    <dimen name="month_line_width">7.3dp</dimen>
+    <dimen name="normal_text_size">14sp</dimen>
+    <dimen name="normal_title_size">21.3sp</dimen>
+    <dimen name="radar_chart_size">154.7dp</dimen>
+    <dimen name="small_text_size">10.7sp</dimen>
+    <dimen name="small_title_size">18sp</dimen>
+    <dimen name="sn_text_size">12sp</dimen>
+    <dimen name="title_bar_height">72dp</dimen>
+    <dimen name="verysmall_text_size">9sp</dimen>
+    <dimen name="week_circle_height">32dp</dimen>
+    <dimen name="week_circle_width">34.6dp</dimen>
+    <dimen name="xlarge_text_size">42.7sp</dimen>
+    <dimen name="xlarge_title_size">56.7sp</dimen>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_help">詳細資料：</string>
+    <string name="about_setting">設定：</string>
+    <string name="about_time_gap">提醒時間間隔為：</string>
+    <string name="about_title">關於</string>
+    <string name="additional_questionnaire_help">煩請您填寫您現在的心情量尺\n及渴求程度，謝謝！</string>
+    <string name="additional_questionnaire_title">即時自我評量</string>
+    <string name="additional_questionnaire_toast">謝謝填寫</string>
+    <string name="after_questionnaire">繼續加油！</string>
+    <string name="after_test_fail">好好加油！</string>
+    <string name="after_test_pass">做得很好！</string>
+    <string name="analysis_counter">已獲得點數</string>
+    <string name="analysis_counter_counter">點</string>
+    <string name="analysis_counter_coupon">張禮卷</string>
+    <string name="analysis_counter_help">您已獲得：</string>
+    <string name="analysis_rank">您的排名</string>
+    <string name="analysis_rank_month_help">整體排名：</string>
+    <string name="analysis_rank_week_help">本周排名：</string>
+    <string name="analysis_saving">已節省金錢</string>
+    <string name="analysis_saving_help">您已節省：</string>
+    <string name="app_name">戒酒小幫手3</string>
+    <string name="audio_box_playing">播放中</string>
+    <string name="audio_box_preparing">準備中</string>
+    <string name="audio_box_recording">錄音中</string>
+    <string name="audio_box_toast_play_end">結束播放</string>
+    <string name="audio_box_toast_record_end">完成錄音</string>
+    <string name="audio_box_toast_timeup">一分鐘到了</string>
+    <string name="bonus">特殊獎勵</string>
+    <string name="brac">酒精濃度</string>
+    <string name="brac_result">酒測結果</string>
+    <string name="brac_result_short">酒測值</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="breath_check_help">我會完成閉眼專注觀察呼吸</string>
+    <string name="breath_help">閉眼專注觀察呼吸30秒</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="call_check_help">確定要撥給 </string>
+    <string name="call_check_help_emotion_hot_line">確定撥打心情專線？</string>
+    <string name="call_to">要聯絡誰？</string>
+    <string name="cancel">取消</string>
+    <string name="check_do_not_keep_activities">您已開啟“不要保留活動”且未啟用“位置資訊服務”。\n建議您至“設定->開發人員選項”下取消勾選“不要保留活動”。\n本次測試將不會回報您的位置</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="check_end">確定結束？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="connect_for_social_help">尋求社區心理諮商</string>
+    <string name="connect_null">沒有聯絡對象</string>
+    <string name="connect_to_emotion_hot_line">聯絡心情專線</string>
+    <string name="connect_to_family">跟親友聊天</string>
+    <string name="craving">渴求指數</string>
+    <string name="craving_short">渴求</string>
+    <string name="current_version">目前版本：</string>
+    <string name="day">日</string>
+    <string name="default_forbidden">您不是本實驗參加者，因此無法使用吹氣功能</string>
+    <string name="default_goal_good"> 機車</string>
+    <string name="default_recreation_1">聽音樂</string>
+    <string name="default_recreation_2">慢跑</string>
+    <string name="default_recreation_3">打球</string>
+    <string name="dollor_sign">$</string>
+    <string name="done">完成</string>
+    <string name="dot">、</string>
+    <string name="edit">編輯</string>
+    <string name="em_main_help">情緒管理：</string>
+    <string name="email"><u>ubicomplab.ntu@gmail.com</u></string>
+    <string name="email_fail">手機端未安裝信件寄送程式</string>
+    <string name="email_message">請問要如何寄送信件</string>
+    <string name="email_reject">非本實驗受試者煩請不要寄送信件</string>
+    <string name="email_subject">[戒酒小幫手]問題回報</string>
+    <string name="emotion">心情量尺</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="emotionDIY_end_toast">完成心情DIY</string>
+    <string name="emotionDIY_help">照顧情緒，我可以：</string>
+    <string name="emotionDIY_help_case0">閉眼專注聆聽舒緩音樂</string>
+    <string name="emotionDIY_help_case1">嘗試閉眼專注觀察呼吸？\n您可以聽從指示引導或直接去做</string>
+    <string name="emotionDIY_help_case2">專心健走 10 ~ 30 分鐘？\n您可以聽從指示引導或直接去做</string>
+    <string name="emotionDIY_help_case3">從事休閒活動？\n您可以選擇以下內容</string>
+    <string name="emotionDIY_help_case3_2">未設定休閒活動，\n請按返回鍵</string>
+    <string name="emotionDIY_help_case4">您將要去做</string>
+    <string name="emotionDIY_help_guide">播放指示</string>
+    <string name="emotionDIY_title">心情DIY</string>
+    <string name="emotionDIY_toast">確定放棄填答心情DIY？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="emotion_box_pause">暫停中</string>
+    <string name="emotion_box_playing">播放中</string>
+    <string name="emotion_box_replay">重新撥放？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="emotion_connect_null">沒有聯絡對象\n請按返回鍵</string>
+    <string name="emotion_end_message">完成後能得到點數，請繼續加油！\n(早午晚各能得到一點)</string>
+    <string name="emotion_manage_check_toast">尚未填寫原因</string>
+    <string name="emotion_manage_end_toast">做好情緒管理</string>
+    <string name="emotion_manage_help1">您當時的情緒是：</string>
+    <string name="emotion_manage_help2">這個感覺跟什麼有關：</string>
+    <string name="emotion_manage_help3">請寫下影響您的</string>
+    <string name="emotion_manage_help4">這是影響您停酒的因素\n但您仍可堅持停酒</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="emotion_manage_history_help">我的紀錄：</string>
+    <string name="emotion_manage_history_title">情緒管理紀錄</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="emotion_manage_input">點此開始輸入</string>
+    <string name="emotion_manage_title0">填寫</string>
+    <string name="emotion_manage_title1">的情緒管理</string>
+    <string name="emotion_manage_toast">確定放棄填寫情緒管理？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="emotion_short">心情</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="end">結束</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/facebook.xml -->
+    <eat-comment/>
+    <string name="facebook_app_id">553234151430402</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="facebook_no_network">分享至臉書需先啟用網路功能</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/facebook.xml -->
+    <eat-comment/>
+    <string name="fb_cancel">放棄貼文</string>
+    <string name="fb_check">確定分享至臉書？</string>
+    <string name="fb_fail_toast">傳送失敗，請檢查您的網路連線狀況</string>
+    <string name="fb_friend">朋友</string>
+    <string name="fb_login">登入</string>
+    <string name="fb_login_message">請點擊右上角\"登入\"鍵\n以分享您所選的歷程至臉書</string>
+    <string name="fb_logout">登出</string>
+    <string name="fb_message">我有話想分享至臉書：</string>
+    <string name="fb_ok">確定上傳</string>
+    <string name="fb_privacy">分享對象</string>
+    <string name="fb_self">自己</string>
+    <string name="fb_share">分享</string>
+    <string name="fb_success_toast">分享成功！</string>
+    <string name="fb_title">分享至臉書</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="feedback_help">請錄下重測原因：</string>
+    <string name="feedback_record_again">重錄</string>
+    <string name="feedback_record_help">請點選右方錄音鍵留言</string>
+    <string name="feedback_record_toast">謝謝您告知原因？</string>
+    <string name="feedback_skip">略過</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="follow_the_guide">請依照以下指示：</string>
+    <string name="follow_the_guide_music">閉眼專注聆聽舒緩音樂</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="gcm_title">通知訊息</string>
+    <string name="get_self_help_counter">+1點</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="go_home">回家休息</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="goto_">前往</string>
+    <string name="happ_design">happdesign.com</string>
+    <string name="high">高</string>
+    <string name="homepage">http://mll.csie.ntu.edu.tw/soberdiary/</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="inspire_help">默念勵志短句30秒</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="intel_ntu">Intel-臺大創新研究中心</string>
+    <string name="know">了解</string>
+    <string name="loading">載入中</string>
+    <string name="lock_about">完成訊息：</string>
+    <string name="lock_message">恭喜您已完成戒酒小幫手的療程，感謝您於療程期間的協助，希望您之後繼續保持並遠離酒精！\n\n因為研究需求，將暫停使用戒酒小幫手三個月。 這段期間，請定期回診進行追蹤觀察，再次感謝你對本研究的幫忙。\n\n您現在可以選擇移除掉戒酒小幫手，或是暫時將戒酒小幫手保留在手機內。三個月後，若是有需要再次啟用戒酒小幫手，請點選最下面的"關於"以聯絡戒酒小幫手團隊。謝謝！\n\n戒酒小幫手團隊　敬上</string>
+    <string name="low">低</string>
+    <string name="minute">分鐘</string>
+    <string name="month">月</string>
+    <string name="month_test">每月統計測試</string>
+    <string name="morning">早上</string>
+    <string name="morning_short">早</string>
+    <string name="morning_time">0–12</string>
+    <string name="msg_box_help1">您的心情量尺：</string>
+    <string name="msg_box_help2">您的渴求程度：</string>
+    <string name="msg_box_help3">是否回報現在位置？</string>
+    <string name="msg_box_title">自我了解</string>
+    <string name="msg_box_toast_cancel">確定放棄填寫？</string>
+    <string name="msg_box_toast_send">確定完成自我了解？</string>
+    <string name="next">下一步</string>
+    <string name="night">晚上</string>
+    <string name="night_short">晚</string>
+    <string name="night_time">20–24</string>
+    <string name="no">否</string>
+    <string name="noon">下午</string>
+    <string name="noon_short">午</string>
+    <string name="noon_time">12–20</string>
+    <string name="notification_msg_1">該吹氣了！</string>
+    <string name="notification_title">小提醒</string>
+    <string name="ntu">國立台灣大學</string>
+    <string name="ok">確定</string>
+    <string name="open_gps">請將位置資訊服務相關功能開啟</string>
+    <string name="phone">聯絡開發團隊：</string>
+    <string name="phone_check">確定要聯絡開發團隊？</string>
+    <string name="phone_number"><u>(02)3366-4926</u></string>
+    <string name="question_sign">？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="question_type0_help">為了家人和不一樣的自己，請繼續加油，堅持下去</string>
+    <string name="question_type1_help">重新整理浮動的心，堅持持續戒酒的決心，建議您可以：</string>
+    <string name="question_type2_help">您似乎開始喝酒了，建議您可以：</string>
+    <string name="question_type3_help">您似乎喝了不少酒，建議您可以：</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/quotes.xml -->
+    <eat-comment/>
+    <string name="quote_blank">○</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="quote_next_message">請按此看延伸學習‧‧‧</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/quotes.xml -->
+    <eat-comment/>
+    <string name="quote_title">延伸學習</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="radar_label0">酒測\n表現</string>
+    <string name="radar_label0_0">酒測表現</string>
+    <string name="radar_label0_full">酒測功能　完成度</string>
+    <string name="radar_label1">自我\n調適</string>
+    <string name="radar_label1_0">諮詢建議</string>
+    <string name="radar_label1_1">心情DIY</string>
+    <string name="radar_label1_full">自我調適功能　完成度</string>
+    <string name="radar_label2">自我\n管理</string>
+    <string name="radar_label2_0">心情紀錄</string>
+    <string name="radar_label2_1">情緒管理</string>
+    <string name="radar_label2_2">即時自我評量</string>
+    <string name="radar_label2_full">自我管理功能　完成度</string>
+    <string name="radar_label3">歷程\n分享</string>
+    <string name="radar_label3_0">故事分享</string>
+    <string name="radar_label3_1">自我測試</string>
+    <string name="radar_label3_2">臉書分享</string>
+    <string name="radar_label3_full">歷程分享功能　完成度</string>
+    <string name="radar_title">我的表現分析</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="read_sentence">閱讀心情小語轉換心境</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="record_title">自我管理紀錄</string>
+    <string name="recoverying">回復中</string>
+    <string name="rickie_wu">Rickie Wu</string>
+    <string name="score">分</string>
+    <string name="second">秒</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="self_help">自行處理與面對</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="self_help_counter_unit">點</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="self_help_help">請問您現在的狀況？</string>
+    <string name="self_help_selection0">身邊有酒</string>
+    <string name="self_help_selection1">想買酒</string>
+    <string name="self_help_selection2">感到無聊</string>
+    <string name="self_help_selection3">覺得有壓力</string>
+    <string name="self_help_selection4">身體不舒服</string>
+    <string name="self_help_selection5">其他原因</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="send">寄送</string>
+    <string name="sensor_wait">酒測器回復中，請稍待</string>
+    <string name="sensor_wait_try_again">請待酒測器回復後，再試一次</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/setting.xml -->
+    <eat-comment/>
+    <string name="setting_alarm">提醒設定</string>
+    <string name="setting_bluetooth">前往藍牙設定頁面</string>
+    <string name="setting_contact">親友資訊</string>
+    <string name="setting_facebook">上傳臉書分享文字？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="setting_limit">抱歉！最多只能選擇三項</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/setting.xml -->
+    <eat-comment/>
+    <string name="setting_name">稱呼</string>
+    <string name="setting_phone">電話號碼</string>
+    <string name="setting_privacy">隱私設定</string>
+    <string name="setting_recreation">休閒活動</string>
+    <string name="setting_social">社區諮商</string>
+    <string name="setting_system">系統設定</string>
+    <string name="setting_title">設定</string>
+    <string name="setting_user_voice">上傳自我管理紀錄錄音？</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="start">開始</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="start_emotion_diy_help">使用心情DIY自我處理 </string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="story_test_cancel">下次再做</string>
+    <string name="story_test_ok">確定送出</string>
+    <string name="storytelling_page_help">周數</string>
+    <string name="storytelling_test_agreement">您是否認同這句話？</string>
+    <string name="storytelling_test_correct">填入文字正確！</string>
+    <string name="storytelling_test_incorrect">填入文字錯誤，再試試看！</string>
+    <string name="storytelling_test_question">下面句子中空缺的字是？</string>
+    <string name="storytelling_test_title">自我測試</string>
+    <string name="storytelling_test_toast">您尚未選擇答案</string>
+    <string name="taipei_city_hospital">臺北市立聯合醫院</string>
+    <string name="testTimeCheckToast">酒測器回復中</string>
+    <string name="test_fail">不通過</string>
+    <string name="test_guide_connect_fail">酒測器連接錯誤</string>
+    <string name="test_guide_end">請點選\'確定\'按鈕</string>
+    <string name="test_guide_high_initial">酒測器未完全回復，請將酒測器啟動並放在通風處兩分鐘再測試</string>
+    <string name="test_guide_init_bottom">酒測器已啟用</string>
+    <string name="test_guide_init_top">請稍待，酒測器準備中</string>
+    <string name="test_guide_msg_box">請依對話框指示進行操作</string>
+    <string name="test_guide_multi_blow">吹氣不穩以致測試失敗</string>
+    <string name="test_guide_not_turn_on">未啟動酒測裝置</string>
+    <string name="test_guide_pair_bottom">酒測器藍牙配對設定錯誤</string>
+    <string name="test_guide_pair_top">請至藍牙設定頁面進行設定</string>
+    <string name="test_guide_pressure_error">酒測器有損壞，請聯絡戒酒小幫手團隊予以更換</string>
+    <string name="test_guide_recovery_bottom">酒測器回復中</string>
+    <string name="test_guide_recovery_top">請稍待</string>
+    <string name="test_guide_recovery_update_bottom">酒測器回復中</string>
+    <string name="test_guide_recovery_update_top">請於酒測器回復後盡快重新測試</string>
+    <string name="test_guide_reset_bottom">請啟用酒測裝置</string>
+    <string name="test_guide_reset_top">請按酒測裝置右下角按鈕</string>
+    <string name="test_guide_start_bottom">測試尚未開始</string>
+    <string name="test_guide_start_top">請點選\'開始\'進行測試</string>
+    <string name="test_guide_test_fail">酒測器沒電了</string>
+    <string name="test_guide_test_timeout">測試超時</string>
+    <string name="test_guide_testing_bottom">酒測器已可進行測試</string>
+    <string name="test_guide_testing_top">請將臉對於螢幕中央，並開始吹氣</string>
+    <string name="test_guide_update_bottom">重新測試倒數中</string>
+    <string name="test_guide_update_top">請於倒數結束前重新進行酒測</string>
+    <string name="test_guide_zero_duration">連線錯誤，請重啟酒測器及手機藍牙功能</string>
+    <string name="test_none">未測試</string>
+    <string name="test_pass">通過</string>
+    <string name="today">今日</string>
+    <string name="today_test">今日測試</string>
+    <string name="today_test_none">尚未測試</string>
+    <string name="total">總共</string>
+    <string name="total_result">綜合資料</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/questionnaire.xml -->
+    <eat-comment/>
+    <string name="try_again">酒測器回復後再重試</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="try_again_test_help">請於倒數完成前再試一次</string>
+    <string name="try_again_toast">請依指示盡快重試</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/emotion.xml -->
+    <eat-comment/>
+    <string name="try_to_do">我會完成</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="tutorial_next">點擊進入下一步</string>
+    <string name="tutorial_step1">按下開關，使指示燈亮起</string>
+    <string name="tutorial_step2">進入測試頁面按下開始按鈕</string>
+    <string name="tutorial_step3">對準吹氣口持續吹氣五秒鐘</string>
+    <string name="uploading">上傳中</string>
+    <string name="voice_main_help">我的留言：</string>
+    <string name="wait">請稍待</string>
+    <string name="website"><u>查看戒酒新知</u></string>
+    <string name="week_test">每周測試統計</string>
+    <string name="year">年</string>
+    <string name="yes">是</string>
+    <string name="yuda_huang">Yuga Huang</string>
+    <!-- From: file:/home/changhc/Documents/soberdiary31/app/build/intermediates/exploded-aar/soberdiary31/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Button">
+        <item name="android:width">205dp</item>
+        <item name="android:height">44dp</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4B5164</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+</resources>
